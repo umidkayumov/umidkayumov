@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on E-commerce platform<br>👯 I’m looking to collaborate on AI<br>🌱 I’m currently learning Web3, Solidity, Blockchain<br>💬 Ask me about <br>⚡ Fun fact 
+🔭 I’m currently working on E-commerce platform<br>👯 I’m looking to collaborate on AI<br>🌱 I’m currently learning Web3, Solidity, Blockchain<br>
 
 
 ## 🌐 Socials:
