@@ -22,9 +22,7 @@
   </a>
 </p>
 
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
-</a>
+<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=hopekayumov&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
 
 - :office: &nbsp;I'm currently working at **[84.51°]**
 - :seedling: &nbsp;I’m currently learning **Go**
