@@ -22,8 +22,8 @@
   </a>
 </p>
 
-<a href="#hopekayumov-title">
-  <img src="https://raw.githubusercontent.com/hopekayumov/github-stats-transparent/output/generated/overview.svg" alt="hopekayumov" align="right" />
+<a href="#macropower-title">
+  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
 </a>
 
 - :office: &nbsp;I'm currently working at **[84.51°]**
