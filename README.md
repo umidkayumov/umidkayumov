@@ -14,7 +14,7 @@
   <a href="https://reddit.com/u/macropower">
     <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/macropower?label=karma&logo=reddit">
   </a>
-  <a href="https://github.com/MacroPower?tab=followers">
+  <a href="https://github.com/hopekayumov?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
   </a>
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
@@ -22,19 +22,19 @@
   </a>
 </p>
 
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
+<a href="#hopekayumov-title">
+  <img src="https://raw.githubusercontent.com/hopekayumov/github-stats-transparent/output/generated/overview.svg" alt="hopekayumov" align="right" />
 </a>
 
 - :office: &nbsp;I'm currently working at **[84.51°]**
 - :seedling: &nbsp;I’m currently learning **Go**
 - :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :computer: &nbsp;Connect with me on **[[LinkedIn](https://linkedin.com/in/hopekayumov/)]**
 
 <br>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="hopekayumov-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
 
